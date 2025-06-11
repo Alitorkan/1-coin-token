@@ -1,0 +1,11 @@
+{
+  "name": "1",
+  "symbol": "1",
+  "description": "The official token '1' deployed on the TON blockchain.",
+  "image": "https://raw.githubusercontent.com/Alitorkan/1-coin/main/logo.png",
+  "address": "UQAAIE66j929sWHhxL5dBLGhaJMK9uOd-12CrX19rQS1zNsJ",
+  "decimals": 9,
+  "social": {
+    "github": "https://github.com/Alitorkan/1-coin"
+  }
+}
